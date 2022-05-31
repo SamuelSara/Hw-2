@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EGR221-SP19-HW2-Evil-Hangman-Starter.iml" filepath="$PROJECT_DIR$/EGR221-SP19-HW2-Evil-Hangman-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PractiveIt2/PractiveIt2.iml" filepath="$PROJECT_DIR$/PractiveIt2/PractiveIt2.iml" />
+    </modules>
+  </component>
+</project>
